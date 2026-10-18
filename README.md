@@ -1,2 +1,1 @@
-# Pineapple-youphone-
-RonakOS
+Ronak OS smartphone simulator source code.
